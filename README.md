@@ -75,8 +75,6 @@ If you make use of the scraped data, please cite it like:
 
 Scraped using isagha-webScraping repository (accessed YYYY-MM-DD).
 
-yaml
-Copy code
 
 ---
 
